@@ -1,16 +1,32 @@
 body {
     background-color: #49077C;
-}
-
-body header{
-    text-align: center;
-    font-size: 30px;
-    color:#ffffff
     
 }
 
+body header{
+    
+    font-size: 40px;
+    color:#ffffff;
+    font-family: Gill Sans;
+    
+}
+
+
+body header {
+    font-family: Fantasy;
+}
+
+#one {
+    font-size: 65px;
+    color: #FF8D33;
+    text-align: center;
+}
+
+
 body h2{
     text-align: left;
+    font-size: 45px;
+    color: #A8F1EF;
 }
 
 img{
@@ -24,8 +40,9 @@ img{
 }
 
 body p {
-    color:#FFFFFF;
-    font-family: fantasy;
+    color: #A8F1EF;
+    font-family: Helvetica;
+    font-size: 24px;
 }
 
 main li {
@@ -36,21 +53,26 @@ main li {
 }
 
 main h2 {
-    color:#FFFFFF;
-    font-size:30px; 
+    color: #A8F1EF;
+    font-size: 40px; 
 }
 
+.cities {
+    font-size: 25px;
+    color: #A8F1EF;
 
+
+}
 
 body h3 {
     text-align: left;
     font-family: Helvetica;
-    color:#FFFFFF;
-    font-size: 25px;
+    color:#F7F903;
+    font-size: 35px;
 }
 
 body footer {
     font-family: Helvetica;
     font-size: 10px;
-    color: #ffffff
+    color: #ffffff;
 }
